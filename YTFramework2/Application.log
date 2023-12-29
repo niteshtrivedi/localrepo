@@ -1,0 +1,713 @@
+2023-12-19 19:19:53  [TestCase1] (main:) msg
+2023-12-19 19:20:00  [TestCase1] (main:) msg
+2023-12-19 19:20:15  [TestCase1] (main:) msg 
+2023-12-19 19:23:47  [TestCase1] (main:) Login successfully for TC1
+2023-12-19 19:23:56  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-19 19:24:11  [TestCase1] (main:) Logout successfully for TC1
+2023-12-21 23:07:04  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:07:04  [TestCase1] (main:) Login successfully for TC1
+2023-12-21 23:07:11  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:07:12  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-21 23:07:26  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:07:27  [TestCase1] (main:) Logout successfully for TC1
+2023-12-21 23:11:48  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:11:48  [TestCase1] (main:) Login successfully for TC1
+2023-12-21 23:11:55  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:11:57  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-21 23:12:11  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:12:12  [TestCase1] (main:) Logout successfully for TC1
+2023-12-21 23:15:32  [TestCase2] (main:) Assertion getting Fail
+2023-12-21 23:15:32  [TestCase2] (main:) Login successfully for TC2
+2023-12-21 23:15:39  [TestCase2] (main:) Assertion getting Fail
+2023-12-21 23:15:39  [TestCase2] (main:) Click on History successfully for TC2
+2023-12-21 23:15:54  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:15:54  [TestCase2] (main:) Logout successfully for TC2
+2023-12-21 23:19:59  [TestCase3] (main:) Assertion getting Fail
+2023-12-21 23:19:59  [TestCase3] (main:) Login successfully for TC3
+2023-12-21 23:20:06  [TestCase3] (main:) Assertion getting Fail
+2023-12-21 23:20:09  [TestCase3] (main:) Click on Subscription successfully for TC3
+2023-12-21 23:20:23  [TestCase3] (main:) Assertion getting Fail
+2023-12-21 23:20:25  [TestCase3] (main:) Logout successfully for TC3
+2023-12-21 23:26:57  [TestCase4] (main:) Assertion getting Fail
+2023-12-21 23:26:58  [TestCase4] (main:) Login successfully for TC4
+2023-12-21 23:27:05  [TestCase4] (main:) Assertion getting Fail
+2023-12-21 23:27:06  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-21 23:27:20  [TestCase4] (main:) Assertion getting Fail
+2023-12-21 23:27:21  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-21 23:27:35  [TestCase3] (main:) Assertion getting Fail
+2023-12-21 23:27:37  [TestCase4] (main:) Logout successfully for TC4
+2023-12-21 23:34:54  [TestCase5] (main:) Assertion getting Fail
+2023-12-21 23:34:54  [TestCase5] (main:) Login successfully for TC5
+2023-12-21 23:35:02  [TestCase5] (main:) Assertion getting Fail
+2023-12-21 23:35:03  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-21 23:35:17  [TestCase5] (main:) Assertion getting Fail
+2023-12-21 23:35:17  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-21 23:35:31  [TestCase5] (main:) Assertion getting Fail
+2023-12-21 23:35:32  [TestCase5] (main:) Logout successfully for TC5
+2023-12-21 23:46:14  [TestCase6] (main:) Assertion getting Fail
+2023-12-21 23:46:14  [TestCase6] (main:) Login successfully for TC6
+2023-12-21 23:46:20  [TestCase6] (main:) Assertion getting Fail
+2023-12-21 23:46:20  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-21 23:46:54  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-21 23:47:03  [TestCase6] (main:) Assertion getting Fail
+2023-12-21 23:47:03  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-21 23:47:11  [TestCase6] (main:) Assertion getting Fail
+2023-12-21 23:47:11  [TestCase6] (main:) Type a Comment successfully for TC6
+2023-12-21 23:47:21  [TestCase6] (main:) Assertion getting Fail
+2023-12-21 23:47:21  [TestCase6] (main:) Post a Comment successfully for TC6
+2023-12-21 23:47:35  [TestCase6] (main:) Assertion getting Fail
+2023-12-21 23:47:35  [TestCase6] (main:) Logout successfully for TC6
+2023-12-21 23:48:36  [TestCase7] (main:) Assertion getting Fail
+2023-12-21 23:48:36  [TestCase7] (main:) Login successfully for TC7
+2023-12-21 23:48:42  [TestCase7] (main:) Assertion getting Fail
+2023-12-21 23:48:43  [TestCase7] (main:) Click on Watchlater successfully for TC7
+2023-12-21 23:48:56  [TestCase7] (main:) Assertion getting Fail
+2023-12-21 23:49:02  [TestCase6] (main:) Logout successfully for TC6
+2023-12-21 23:52:13  [TestCase8] (main:) Assertion getting Fail
+2023-12-21 23:52:13  [TestCase8] (main:) Login successfully for TC8
+2023-12-21 23:52:20  [TestCase8] (main:) Assertion getting Fail
+2023-12-21 23:52:20  [TestCase8] (main:) Click on library successfully for TC8
+2023-12-21 23:52:34  [TestCase8] (main:) Assertion getting Fail
+2023-12-21 23:52:35  [TestCase8] (main:) Logout successfully for TC8
+2023-12-21 23:57:37  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:57:37  [TestCase1] (main:) Login successfully for TC1
+2023-12-21 23:57:44  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-21 23:57:58  [TestCase1] (main:) Assertion getting Fail
+2023-12-21 23:57:59  [TestCase1] (main:) Logout successfully for TC1
+2023-12-22 00:28:45  [TestCase1] (main:) Assertion getting Fail
+2023-12-22 00:28:45  [TestCase1] (main:) Login successfully for TC1
+2023-12-22 00:28:52  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-22 00:29:06  [TestCase1] (main:) Assertion getting Fail
+2023-12-22 00:29:06  [TestCase1] (main:) Logout successfully for TC1
+2023-12-23 16:15:53  [TestCase1] (main:) Login successfully for TC1
+2023-12-23 16:16:00  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-23 16:16:14  [TestCase1] (main:) Logout successfully for TC1
+2023-12-23 16:19:09  [TestCase1] (main:) Assertion getting Pass
+2023-12-23 16:19:23  [TestCase1] (main:) Login successfully for TC1
+2023-12-23 16:19:30  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-23 16:19:44  [TestCase1] (main:) Logout successfully for TC1
+2023-12-23 16:21:50  [TestCase1] (main:) Assertion getting Pass
+2023-12-23 16:22:04  [TestCase1] (main:) Login successfully for TC1
+2023-12-23 16:22:10  [TestCase1] (main:) Assertion getting Fail
+2023-12-23 16:22:11  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-23 16:22:25  [TestCase1] (main:) Logout successfully for TC1
+2023-12-23 16:24:41  [TestCase1] (main:) Assertion getting Pass
+2023-12-23 16:24:56  [TestCase1] (main:) Login successfully for TC1
+2023-12-23 16:25:02  [TestCase1] (main:) Assertion getting Fail
+2023-12-23 16:25:03  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-23 16:25:17  [TestCase1] (main:) Logout successfully for TC1
+2023-12-23 16:36:57  [TestCase1] (main:) Assertion getting Pass
+2023-12-23 16:37:11  [TestCase1] (main:) Login successfully for TC1
+2023-12-23 16:39:17  [TestCase1] (main:) Assertion getting Pass
+2023-12-23 16:39:32  [TestCase1] (main:) Login successfully for TC1
+2023-12-23 17:55:47  [TestCase1] (main:) Assertion getting Pass
+2023-12-23 17:56:02  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 15:13:24  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 15:13:39  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 15:18:06  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 15:18:20  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 15:51:15  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 15:51:30  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 16:14:37  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 16:14:51  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 16:17:56  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 16:18:11  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 16:21:56  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 16:22:10  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 16:57:36  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 16:57:50  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 16:59:02  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 16:59:16  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 17:05:54  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 17:06:08  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 17:54:34  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 17:54:48  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 19:41:56  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 19:42:11  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 19:42:21  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 19:42:21  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-24 19:42:37  [TestCase1] (main:) Logout successfully for TC1
+2023-12-24 20:15:20  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 20:15:35  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 20:15:43  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 20:15:45  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-24 20:21:05  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 20:21:20  [TestCase1] (main:) Login successfully for TC1
+2023-12-24 20:21:31  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 20:21:32  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-24 20:21:45  [TestCase1] (main:) Assertion getting Pass
+2023-12-24 20:21:47  [TestCase1] (main:) Logout successfully for TC1
+2023-12-24 20:33:03  [TestCase2] (main:) Assertion getting Fail
+2023-12-24 20:33:04  [TestCase2] (main:) Login successfully for TC2
+2023-12-24 20:33:12  [TestCase2] (main:) Assertion getting Pass
+2023-12-24 20:33:13  [TestCase2] (main:) Click on History successfully for TC2
+2023-12-24 20:33:27  [TestCase2] (main:) Assertion getting Pass
+2023-12-24 20:33:28  [TestCase2] (main:) Logout successfully for TC2
+2023-12-24 20:46:36  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 20:46:36  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 20:46:44  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 20:46:44  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-24 20:46:58  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 20:46:59  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-24 20:47:13  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 20:47:14  [TestCase4] (main:) Logout successfully for TC4
+2023-12-24 21:00:50  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 21:00:51  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 21:00:58  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 21:00:59  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-24 21:01:14  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 21:01:14  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-24 21:01:30  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 21:01:31  [TestCase4] (main:) Logout successfully for TC4
+2023-12-24 21:06:55  [TestCase5] (main:) Assertion getting Pass
+2023-12-24 21:07:10  [TestCase5] (main:) Login successfully for TC5
+2023-12-24 21:07:18  [TestCase5] (main:) Assertion getting Fail
+2023-12-24 21:07:19  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-24 21:07:33  [TestCase5] (main:) Assertion getting Fail
+2023-12-24 21:07:34  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-24 21:07:48  [TestCase5] (main:) Assertion getting Pass
+2023-12-24 21:07:49  [TestCase5] (main:) Logout successfully for TC5
+2023-12-24 21:14:29  [TestCase5] (main:) Assertion getting Pass
+2023-12-24 21:14:44  [TestCase5] (main:) Login successfully for TC5
+2023-12-24 21:14:52  [TestCase5] (main:) Assertion getting Fail
+2023-12-24 21:14:53  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-24 21:14:58  [TestCase5] (main:) Assertion getting Fail
+2023-12-24 21:15:09  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-24 21:15:23  [TestCase5] (main:) Assertion getting Pass
+2023-12-24 21:15:25  [TestCase5] (main:) Logout successfully for TC5
+2023-12-24 23:31:00  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:31:00  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 23:34:21  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:34:21  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 23:38:19  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:38:19  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 23:38:28  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:38:29  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-24 23:38:43  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:38:44  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-24 23:38:57  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 23:38:58  [TestCase4] (main:) Logout successfully for TC4
+2023-12-24 23:41:00  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:41:00  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 23:41:09  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:41:10  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-24 23:41:24  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:41:25  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-24 23:41:38  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 23:41:40  [TestCase4] (main:) Logout successfully for TC4
+2023-12-24 23:43:59  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 23:44:14  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 23:44:23  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:44:23  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-24 23:44:38  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:44:38  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-24 23:44:52  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 23:44:53  [TestCase4] (main:) Logout successfully for TC4
+2023-12-24 23:48:39  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 23:48:54  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 23:48:58  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:49:03  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-24 23:49:17  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:49:18  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-24 23:49:31  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 23:49:32  [TestCase4] (main:) Logout successfully for TC4
+2023-12-24 23:52:43  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 23:52:57  [TestCase4] (main:) Login successfully for TC4
+2023-12-24 23:53:04  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:53:09  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-24 23:53:23  [TestCase4] (main:) Assertion getting Fail
+2023-12-24 23:53:24  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-24 23:53:37  [TestCase4] (main:) Assertion getting Pass
+2023-12-24 23:53:38  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 15:36:24  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 15:36:40  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 15:36:46  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 15:36:52  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 15:37:07  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 15:37:08  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 15:37:21  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 15:37:23  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 15:38:42  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 15:38:58  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 15:40:58  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 15:41:14  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 15:41:21  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 15:41:26  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 15:41:40  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 15:41:41  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 15:41:55  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 15:41:56  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 15:51:52  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 15:52:08  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 15:52:14  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 15:52:20  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 15:52:35  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 15:52:35  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 15:52:49  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 15:52:50  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 15:59:33  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 15:59:49  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 15:59:56  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 16:00:02  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 16:00:17  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 16:00:18  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 16:00:31  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 16:00:33  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 16:01:39  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 16:01:54  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 16:02:02  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 16:02:06  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 16:02:21  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 16:02:21  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 16:02:36  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 16:02:37  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 16:03:57  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 16:04:12  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 16:04:19  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 16:04:24  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 16:04:39  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 16:04:39  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 16:04:53  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 16:04:54  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 16:12:55  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 16:13:11  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 16:31:42  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 16:31:58  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 16:33:41  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 16:33:56  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 19:13:59  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 19:14:14  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 19:15:21  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 19:15:36  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 19:42:14  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 19:42:28  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 19:43:38  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 19:43:53  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 19:50:56  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 19:51:10  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 20:08:58  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 20:09:13  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 20:29:45  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 20:29:59  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 20:30:59  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 20:31:14  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 20:31:25  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 20:31:40  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 20:31:41  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 20:31:54  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 20:31:55  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 21:42:46  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:43:01  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 21:44:09  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:44:25  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 21:44:32  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:44:37  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 21:44:52  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 21:44:53  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 21:45:07  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:45:09  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 21:46:36  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:46:51  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 21:46:59  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:47:03  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 21:47:18  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 21:47:18  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 21:47:32  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:47:34  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 21:50:34  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:50:50  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 21:50:58  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:51:03  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 21:56:56  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:57:12  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 21:57:21  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:57:26  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 21:57:40  [TestCase4] (main:) Assertion getting Fail
+2023-12-25 21:57:41  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 21:57:55  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 21:57:57  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 22:02:55  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:03:11  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 22:03:20  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:03:24  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 22:08:34  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:08:49  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 22:08:58  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:09:02  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 22:09:16  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:09:17  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 22:11:14  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:11:29  [TestCase4] (main:) Login successfully for TC4
+2023-12-25 22:11:36  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:11:41  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-25 22:11:55  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:11:56  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-25 22:12:10  [TestCase4] (main:) Assertion getting Pass
+2023-12-25 22:12:12  [TestCase4] (main:) Logout successfully for TC4
+2023-12-25 22:18:07  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:18:22  [TestCase5] (main:) Login successfully for TC5
+2023-12-25 22:18:29  [TestCase5] (main:) Assertion getting Fail
+2023-12-25 22:18:31  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-25 22:18:35  [TestCase5] (main:) Assertion getting Fail
+2023-12-25 22:18:47  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-25 22:19:01  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:19:03  [TestCase5] (main:) Logout successfully for TC5
+2023-12-25 22:21:29  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:21:44  [TestCase5] (main:) Login successfully for TC5
+2023-12-25 22:21:52  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:21:52  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-25 22:21:57  [TestCase5] (main:) Assertion getting Fail
+2023-12-25 22:22:08  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-25 22:22:22  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:22:24  [TestCase5] (main:) Logout successfully for TC5
+2023-12-25 22:26:41  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:26:57  [TestCase5] (main:) Login successfully for TC5
+2023-12-25 22:27:02  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:27:04  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-25 22:27:08  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:27:19  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-25 22:27:33  [TestCase5] (main:) Assertion getting Pass
+2023-12-25 22:27:35  [TestCase5] (main:) Logout successfully for TC5
+2023-12-25 22:44:36  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 22:44:51  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 22:45:00  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 22:45:02  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 22:45:37  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 22:45:45  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 22:45:45  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 22:49:56  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 22:50:13  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 22:50:20  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 22:50:22  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 22:50:57  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 22:51:05  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 22:51:06  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:03:32  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:03:47  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:03:52  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:03:52  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:04:27  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:04:35  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:04:35  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:06:16  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:06:31  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:06:37  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:06:37  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:07:11  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:07:20  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:07:20  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:09:33  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:09:48  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:09:54  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:09:54  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:10:29  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:10:37  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:10:37  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:24:03  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:24:18  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:24:24  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:24:24  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:24:58  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:25:06  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:25:07  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:29:02  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:29:17  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:29:24  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:29:24  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:29:58  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:30:07  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:30:07  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:35:45  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:35:59  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:36:04  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:36:04  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:36:39  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:36:43  [TestCase6] (main:) Assertion getting Pass
+2023-12-25 23:36:48  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:40:08  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:40:14  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:40:48  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:40:56  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:43:01  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:43:07  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:43:47  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:44:02  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:45:53  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:45:58  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:46:38  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:46:53  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:55:37  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:55:47  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:56:28  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-25 23:56:42  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-25 23:58:44  [TestCase6] (main:) Login successfully for TC6
+2023-12-25 23:58:55  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-25 23:59:45  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 00:00:00  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 00:03:19  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 00:03:29  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 00:04:20  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 00:04:40  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 00:23:41  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 00:23:56  [TestCase7] (main:) Login successfully for TC7
+2023-12-26 00:24:02  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 00:24:03  [TestCase7] (main:) Click on Watchlater successfully for TC7
+2023-12-26 00:24:17  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 00:24:21  [TestCase6] (main:) Logout successfully for TC6
+2023-12-26 00:25:40  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 00:25:54  [TestCase7] (main:) Login successfully for TC7
+2023-12-26 00:26:00  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 00:26:01  [TestCase7] (main:) Click on Watchlater successfully for TC7
+2023-12-26 00:26:14  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 00:26:19  [TestCase7] (main:) Logout successfully for TC6
+2023-12-26 00:32:36  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 00:32:50  [TestCase8] (main:) Login successfully for TC8
+2023-12-26 00:32:57  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 00:32:57  [TestCase8] (main:) Click on library successfully for TC8
+2023-12-26 00:33:10  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 00:33:11  [TestCase8] (main:) Logout successfully for TC8
+2023-12-26 00:38:02  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 00:38:12  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 00:39:03  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 00:41:34  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 00:41:44  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 00:42:35  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 00:42:55  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 00:54:26  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 00:54:36  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 00:55:27  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 00:55:47  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 01:05:22  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 01:05:32  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 01:06:23  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 01:06:44  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 01:16:28  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 01:16:38  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 01:17:59  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 01:18:09  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 01:18:59  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 01:19:20  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 01:19:40  [TestCase6] (main:) Assertion getting Fail
+2023-12-26 01:19:40  [TestCase6] (main:) Type a Comment successfully for TC6
+2023-12-26 01:20:01  [TestCase6] (main:) Post a Comment successfully for TC6
+2023-12-26 01:20:32  [TestCase6] (main:) Logout successfully for TC6
+2023-12-26 01:22:47  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 01:22:58  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 01:23:48  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 01:24:09  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 01:24:29  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:24:29  [TestCase6] (main:) Type a Comment successfully for TC6
+2023-12-26 01:24:50  [TestCase6] (main:) Post a Comment successfully for TC6
+2023-12-26 01:25:20  [TestCase6] (main:) Logout successfully for TC6
+2023-12-26 01:27:41  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:27:55  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 01:28:05  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:28:06  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 01:28:56  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 01:29:06  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:29:17  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 01:29:37  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:29:37  [TestCase6] (main:) Type a Comment successfully for TC6
+2023-12-26 01:29:58  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:29:58  [TestCase6] (main:) Post a Comment successfully for TC6
+2023-12-26 01:30:28  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:30:29  [TestCase6] (main:) Logout successfully for TC6
+2023-12-26 01:32:36  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 01:32:50  [TestCase2] (main:) Login successfully for TC2
+2023-12-26 01:32:56  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 01:32:57  [TestCase2] (main:) Click on History successfully for TC2
+2023-12-26 01:33:11  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 01:33:11  [TestCase2] (main:) Logout successfully for TC2
+2023-12-26 01:33:21  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 01:33:36  [TestCase1] (main:) Login successfully for TC1
+2023-12-26 01:33:42  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 01:33:43  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-26 01:33:56  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 01:33:57  [TestCase1] (main:) Logout successfully for TC1
+2023-12-26 01:34:07  [TestCase4] (main:) Assertion getting Pass
+2023-12-26 01:34:22  [TestCase4] (main:) Login successfully for TC4
+2023-12-26 01:34:27  [TestCase4] (main:) Assertion getting Pass
+2023-12-26 01:34:31  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-26 01:34:46  [TestCase4] (main:) Assertion getting Pass
+2023-12-26 01:34:46  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-26 01:35:00  [TestCase4] (main:) Assertion getting Pass
+2023-12-26 01:35:01  [TestCase4] (main:) Logout successfully for TC4
+2023-12-26 01:35:11  [TestCase3] (main:) Assertion getting Pass
+2023-12-26 01:35:26  [TestCase3] (main:) Login successfully for TC3
+2023-12-26 01:35:32  [TestCase3] (main:) Assertion getting Pass
+2023-12-26 01:35:34  [TestCase3] (main:) Click on Subscription successfully for TC3
+2023-12-26 01:35:47  [TestCase3] (main:) Assertion getting Pass
+2023-12-26 01:35:48  [TestCase3] (main:) Logout successfully for TC3
+2023-12-26 01:35:58  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:36:13  [TestCase6] (main:) Login successfully for TC6
+2023-12-26 01:36:23  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:36:23  [TestCase6] (main:) Video Play successfully for TC6
+2023-12-26 01:37:14  [TestCase6] (main:) Scroll the page successfully for TC6
+2023-12-26 01:37:24  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:37:34  [TestCase6] (main:) Click on comment successfully for TC6
+2023-12-26 01:37:55  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:37:55  [TestCase6] (main:) Type a Comment successfully for TC6
+2023-12-26 01:38:15  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:38:15  [TestCase6] (main:) Post a Comment successfully for TC6
+2023-12-26 01:38:45  [TestCase6] (main:) Assertion getting Pass
+2023-12-26 01:38:46  [TestCase6] (main:) Logout successfully for TC6
+2023-12-26 01:38:55  [TestCase5] (main:) Assertion getting Pass
+2023-12-26 01:39:11  [TestCase5] (main:) Login successfully for TC5
+2023-12-26 01:39:15  [TestCase5] (main:) Assertion getting Pass
+2023-12-26 01:39:16  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-26 01:39:20  [TestCase5] (main:) Assertion getting Pass
+2023-12-26 01:39:31  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-26 01:39:44  [TestCase5] (main:) Assertion getting Pass
+2023-12-26 01:39:45  [TestCase5] (main:) Logout successfully for TC5
+2023-12-26 01:39:55  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 01:40:10  [TestCase8] (main:) Login successfully for TC8
+2023-12-26 01:40:17  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 01:40:17  [TestCase8] (main:) Click on library successfully for TC8
+2023-12-26 01:40:30  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 01:40:31  [TestCase8] (main:) Logout successfully for TC8
+2023-12-26 01:40:42  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 01:40:56  [TestCase7] (main:) Login successfully for TC7
+2023-12-26 01:41:02  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 01:41:03  [TestCase7] (main:) Click on Watchlater successfully for TC7
+2023-12-26 01:41:17  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 01:41:21  [TestCase7] (main:) Logout successfully for TC7
+2023-12-26 19:26:57  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 19:27:13  [TestCase1] (main:) Login successfully for TC1
+2023-12-26 19:27:22  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 19:27:23  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-26 19:27:37  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 19:27:38  [TestCase1] (main:) Logout successfully for TC1
+2023-12-26 19:27:53  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 19:28:09  [TestCase2] (main:) Login successfully for TC2
+2023-12-26 19:28:18  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 19:28:19  [TestCase2] (main:) Click on History successfully for TC2
+2023-12-26 19:28:32  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 19:28:34  [TestCase2] (main:) Logout successfully for TC2
+2023-12-26 19:28:47  [TestCase3] (main:) Assertion getting Pass
+2023-12-26 19:29:02  [TestCase3] (main:) Login successfully for TC3
+2023-12-26 19:29:10  [TestCase3] (main:) Assertion getting Pass
+2023-12-26 19:29:12  [TestCase3] (main:) Click on Subscription successfully for TC3
+2023-12-26 19:29:26  [TestCase3] (main:) Assertion getting Pass
+2023-12-26 19:29:28  [TestCase3] (main:) Logout successfully for TC3
+2023-12-26 19:29:40  [TestCase4] (main:) Assertion getting Pass
+2023-12-26 19:29:56  [TestCase4] (main:) Login successfully for TC4
+2023-12-26 19:30:04  [TestCase4] (main:) Assertion getting Pass
+2023-12-26 19:30:10  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-26 19:30:24  [TestCase4] (main:) Assertion getting Pass
+2023-12-26 19:30:25  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-26 19:30:40  [TestCase4] (main:) Assertion getting Pass
+2023-12-26 19:30:42  [TestCase4] (main:) Logout successfully for TC4
+2023-12-26 19:30:54  [TestCase5] (main:) Assertion getting Pass
+2023-12-26 19:31:10  [TestCase5] (main:) Login successfully for TC5
+2023-12-26 19:31:18  [TestCase5] (main:) Assertion getting Pass
+2023-12-26 19:31:19  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-26 19:31:23  [TestCase5] (main:) Assertion getting Pass
+2023-12-26 19:31:34  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-26 19:31:48  [TestCase5] (main:) Assertion getting Pass
+2023-12-26 19:31:50  [TestCase5] (main:) Logout successfully for TC5
+2023-12-26 19:32:03  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 19:32:19  [TestCase7] (main:) Login successfully for TC7
+2023-12-26 19:32:28  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 19:32:28  [TestCase7] (main:) Click on Watchlater successfully for TC7
+2023-12-26 19:32:42  [TestCase7] (main:) Assertion getting Pass
+2023-12-26 19:32:48  [TestCase7] (main:) Logout successfully for TC7
+2023-12-26 19:33:01  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 19:33:16  [TestCase8] (main:) Login successfully for TC8
+2023-12-26 19:33:24  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 19:33:25  [TestCase8] (main:) Click on library successfully for TC8
+2023-12-26 19:33:38  [TestCase8] (main:) Assertion getting Pass
+2023-12-26 19:33:40  [TestCase8] (main:) Logout successfully for TC8
+2023-12-26 23:15:34  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 23:15:49  [TestCase1] (main:) Login successfully for TC1
+2023-12-26 23:15:56  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 23:15:57  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-26 23:16:10  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 23:16:12  [TestCase1] (main:) Logout successfully for TC1
+2023-12-26 23:23:42  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 23:23:56  [TestCase1] (main:) Login successfully for TC1
+2023-12-26 23:24:03  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 23:24:04  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-26 23:24:18  [TestCase1] (main:) Assertion getting Pass
+2023-12-26 23:24:19  [TestCase1] (main:) Logout successfully for TC1
+2023-12-26 23:32:29  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 23:32:43  [TestCase2] (main:) Login successfully for TC2
+2023-12-26 23:32:50  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 23:32:51  [TestCase2] (main:) Click on History successfully for TC2
+2023-12-26 23:33:04  [TestCase2] (main:) Assertion getting Pass
+2023-12-26 23:33:05  [TestCase2] (main:) Logout successfully for TC2
+2023-12-27 00:03:01  [TestCase1] (main:) Assertion getting Pass
+2023-12-27 00:03:15  [TestCase1] (main:) Login successfully for TC1
+2023-12-27 00:03:23  [TestCase1] (main:) Assertion getting Pass
+2023-12-27 00:03:23  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-27 00:03:37  [TestCase1] (main:) Assertion getting Pass
+2023-12-27 00:03:38  [TestCase1] (main:) Logout successfully for TC1
+2023-12-27 00:03:48  [TestCase2] (main:) Assertion getting Pass
+2023-12-27 00:04:02  [TestCase2] (main:) Login successfully for TC2
+2023-12-27 00:04:09  [TestCase2] (main:) Assertion getting Pass
+2023-12-27 00:04:09  [TestCase2] (main:) Click on History successfully for TC2
+2023-12-27 00:04:23  [TestCase2] (main:) Assertion getting Pass
+2023-12-27 00:04:23  [TestCase2] (main:) Logout successfully for TC2
+2023-12-27 00:04:33  [TestCase3] (main:) Assertion getting Pass
+2023-12-27 00:04:47  [TestCase3] (main:) Login successfully for TC3
+2023-12-27 00:04:54  [TestCase3] (main:) Assertion getting Pass
+2023-12-27 00:04:55  [TestCase3] (main:) Click on Subscription successfully for TC3
+2023-12-27 00:05:08  [TestCase3] (main:) Assertion getting Pass
+2023-12-27 00:05:10  [TestCase3] (main:) Logout successfully for TC3
+2023-12-27 00:05:19  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 00:05:33  [TestCase4] (main:) Login successfully for TC4
+2023-12-27 00:05:39  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 00:05:43  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-27 00:05:58  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 00:05:58  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-27 00:06:12  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 00:06:13  [TestCase4] (main:) Logout successfully for TC4
+2023-12-27 00:06:22  [TestCase5] (main:) Assertion getting Pass
+2023-12-27 00:06:36  [TestCase5] (main:) Login successfully for TC5
+2023-12-27 00:06:41  [TestCase5] (main:) Assertion getting Pass
+2023-12-27 00:06:42  [TestCase5] (main:) Video Play successfully for TC5
+2023-12-27 00:06:46  [TestCase5] (main:) Assertion getting Pass
+2023-12-27 00:06:57  [TestCase5] (main:) Click on subcription successfully for TC5
+2023-12-27 00:07:10  [TestCase5] (main:) Assertion getting Pass
+2023-12-27 00:07:11  [TestCase5] (main:) Logout successfully for TC5
+2023-12-27 00:07:20  [TestCase7] (main:) Assertion getting Pass
+2023-12-27 00:07:35  [TestCase7] (main:) Login successfully for TC7
+2023-12-27 00:07:41  [TestCase7] (main:) Assertion getting Pass
+2023-12-27 00:07:41  [TestCase7] (main:) Click on Watchlater successfully for TC7
+2023-12-27 00:07:55  [TestCase7] (main:) Assertion getting Pass
+2023-12-27 00:08:00  [TestCase7] (main:) Logout successfully for TC7
+2023-12-27 00:08:10  [TestCase8] (main:) Assertion getting Pass
+2023-12-27 00:08:24  [TestCase8] (main:) Login successfully for TC8
+2023-12-27 00:08:30  [TestCase8] (main:) Assertion getting Pass
+2023-12-27 00:08:31  [TestCase8] (main:) Click on library successfully for TC8
+2023-12-27 00:08:44  [TestCase8] (main:) Assertion getting Pass
+2023-12-27 00:08:45  [TestCase8] (main:) Logout successfully for TC8
+2023-12-27 11:35:41  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:35:56  [TestCase4] (main:) Login successfully for TC4
+2023-12-27 11:36:04  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:36:08  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-27 11:36:22  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:36:23  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-27 11:36:37  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:36:38  [TestCase4] (main:) Logout successfully for TC4
+2023-12-27 11:38:45  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:38:59  [TestCase4] (main:) Login successfully for TC4
+2023-12-27 11:39:05  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:39:10  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-27 11:39:24  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:39:25  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-27 11:39:40  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:39:40  [TestCase4] (main:) Logout successfully for TC4
+2023-12-27 11:43:22  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:43:38  [TestCase4] (main:) Login successfully for TC4
+2023-12-27 11:43:57  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:44:01  [TestCase4] (main:) Video Play successfully for TC4
+2023-12-27 11:44:16  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:44:16  [TestCase4] (main:) Click on Like successfully for TC4
+2023-12-27 11:44:30  [TestCase4] (main:) Assertion getting Pass
+2023-12-27 11:44:31  [TestCase4] (main:) Logout successfully for TC4
+2023-12-28 17:44:13  [TestCase1] (main:) Assertion getting Pass
+2023-12-28 17:44:27  [TestCase1] (main:) Login successfully for TC1
+2023-12-28 17:44:37  [TestCase1] (main:) Assertion getting Pass
+2023-12-28 17:44:38  [TestCase1] (main:) Click on Trending successfully for TC1
+2023-12-28 17:44:51  [TestCase1] (main:) Assertion getting Pass
+2023-12-28 17:44:52  [TestCase1] (main:) Logout successfully for TC1
