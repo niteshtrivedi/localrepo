@@ -1,4 +1,4 @@
-package YTFramework.YTFramework;
+package YTFramework2.YTFramework2;
 
 /**
  * Hello world!
