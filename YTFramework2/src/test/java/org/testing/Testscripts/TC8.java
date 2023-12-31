@@ -1,18 +1,8 @@
 package org.testing.Testscripts;
 
-import org.testng.annotations.Test;
-
-import com.relevantcodes.extentreports.ExtentReports;
-import com.relevantcodes.extentreports.ExtentTest;
-import com.relevantcodes.extentreports.LogStatus;
-
-import org.testng.annotations.Test;
-
 import java.io.IOException;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testing.Base.Base;
 import org.testing.Pages.HomePage;
 import org.testing.Pages.LoginPage;
@@ -22,9 +12,11 @@ import org.testing.Utilities.Report;
 import org.testing.Utilities.ScreenshotCapture;
 import org.testing.assertion.Assertt;
 import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+import com.relevantcodes.extentreports.LogStatus;
 
 public class TC8 extends Base {
 	

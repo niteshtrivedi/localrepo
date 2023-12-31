@@ -7,7 +7,7 @@ public class LogsCapture {
 
 	public static void takeLog(String className, String msg){
 		
-		DOMConfigurator.configure("../YTFramework/layout.xml");
+		DOMConfigurator.configure("../YTFramework2/objectRepo.properties");
 		Logger L= Logger.getLogger(className);
 		L.info(msg);
 	}
