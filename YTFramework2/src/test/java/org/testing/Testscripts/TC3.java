@@ -1,7 +1,6 @@
 package org.testing.Testscripts;
 
-import org.testng.Assert;
-import org.testng.annotations.Test;
+
 import java.io.IOException;
 
 import org.openqa.selenium.By;
@@ -13,6 +12,9 @@ import org.testing.Utilities.LogsCapture;
 import org.testing.Utilities.Report;
 import org.testing.Utilities.ScreenshotCapture;
 import org.testing.assertion.Assertt;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
