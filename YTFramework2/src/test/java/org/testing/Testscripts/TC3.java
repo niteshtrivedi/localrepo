@@ -1,5 +1,7 @@
 package org.testing.Testscripts;
 
+import org.testng.Assert;
+import org.testng.annotations.Test;
 import java.io.IOException;
 
 import org.openqa.selenium.By;
@@ -11,9 +13,6 @@ import org.testing.Utilities.LogsCapture;
 import org.testing.Utilities.Report;
 import org.testing.Utilities.ScreenshotCapture;
 import org.testing.assertion.Assertt;
-import org.testng.Assert;
-import org.testng.annotations.Test;
-
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
@@ -31,7 +30,7 @@ public class TC3 extends Base {
 		result=Assertt.assertion1(driver.getCurrentUrl(),"https://www.youtube.com/","TestCase3");
 		if(result==false)
 		{
-			extentTest.log(LogStatus.FAIL,"Test case2 is Failed");
+			extentTest.log(LogStatus.FAIL,"Test case3 is Failed");
 			ex.endTest(extentTest);
 		    ex.flush();
 		    Assert.assertTrue(result);
